@@ -1,0 +1,420 @@
+Dist Code,Year,State Code,State Name,Dist Name,JANUARY NORMAL RAINFALL (Millimeters),FEBRUARY NORMAL RAINFALL (Millimeters),MARCH NORMAL RAINFALL (Millimeters),APRIL NORMAL RAINFALL (Millimeters),MAY NORMAL RAINFALL (Millimeters),JUNE NORMAL RAINFALL (Millimeters),JULY NORMAL RAINFALL (Millimeters),AUGUST NORMAL RAINFALL (Millimeters),SEPTEMBER NORMAL RAINFALL (Millimeters),OCTOBER NORMAL RAINFALL (Millimeters),NOVEMBER NORMAL RAINFALL (Millimeters),DECEMBER NORMAL RAINFALL (Millimeters),ANNUAL NORMAL RAINFALL (Millimeters)
+1,Average 30 years,14,Chhattisgarh,Durg,16,27,19,19,21,200,340,344,212,61,14,4,1277
+2,Average 30 years,14,Chhattisgarh,Bastar,5,15,17,51,66,212,398,381,246,116,24,4,1535
+3,Average 30 years,14,Chhattisgarh,Raipur,12,20,23,15,17,194,392,394,249,62,8,2,1388
+4,Average 30 years,14,Chhattisgarh,Bilaspur,17,30,22,17,18,191,381,387,194,52,13,5,1327
+5,Average 30 years,14,Chhattisgarh,Raigarh,18,16,21,8,14,168,475,508,341,57,1,1,1628
+6,Average 30 years,14,Chhattisgarh,Surguja,22,22,21,9,15,143,435,465,224,47,1,2,1406
+7,Average 30 years,6,Madhya Pradesh,Jabalpur,26,22,15,9,15,170,505,401,212,50,17,5,1447
+8,Average 30 years,6,Madhya Pradesh,Balaghat,20,35,25,19,14,191,508,450,126,61,16,9,1474
+9,Average 30 years,6,Madhya Pradesh,Chhindwara,23,2,13,13,13,146,319,283,188,69,22,3,1094
+10,Average 30 years,6,Madhya Pradesh,Narsinghpur,28,18,13,10,15,177,567,474,292,66,24,5,1690
+11,Average 30 years,6,Madhya Pradesh,Seoni,25,24,23,21,23,207,479,345,194,76,25,5,1447
+12,Average 30 years,6,Madhya Pradesh,Mandla,29,15,28,16,8,132,480,420,214,71,9,3,1425
+13,Average 30 years,6,Madhya Pradesh,Sagar,30,13,10,4,8,145,463,419,228,44,24,7,1395
+14,Average 30 years,6,Madhya Pradesh,Damoh,22,16,11,7,11,119,392,363,209,39,19,10,1218
+15,Average 30 years,6,Madhya Pradesh,Tikamgarh,22,15,10,3,8,108,351,344,190,31,12,7,1100
+16,Average 30 years,6,Madhya Pradesh,Chhatarpur,23,17,8,2,7,90,342,341,169,29,10,6,1044
+17,Average 30 years,6,Madhya Pradesh,Panna,31,21,13,8,10,124,377,346,192,42,15,7,1186
+18,Average 30 years,6,Madhya Pradesh,Rewa,20,19,11,4,6,109,354,329,184,27,11,5,1079
+19,Average 30 years,6,Madhya Pradesh,Sidhi,24,23,16,7,10,123,353,354,207,42,10,5,1174
+20,Average 30 years,6,Madhya Pradesh,Satna,36,23,14,10,11,126,356,320,176,47,13,6,1138
+21,Average 30 years,6,Madhya Pradesh,Shahdol,33,27,21,12,12,151,401,393,216,50,14,6,1335
+22,Average 30 years,6,Madhya Pradesh,Gwalior,18,8,8,3,9,84,274,259,192,35,2,8,900
+23,Average 30 years,6,Madhya Pradesh,Shivpuri,20,9,10,4,12,120,382,371,200,28,13,8,1179
+24,Average 30 years,6,Madhya Pradesh,Guna,20,9,11,5,14,130,389,382,214,24,15,9,1222
+25,Average 30 years,6,Madhya Pradesh,Datia,18,11,9,3,8,97,293,299,187,36,4,7,973
+26,Average 30 years,6,Madhya Pradesh,Morena,15,6,9,2,10,71,306,350,112,39,4,3,927
+27,Average 30 years,6,Madhya Pradesh,Bhind,10,5,15,9,9,143,343,295,235,59,20,3,1148
+28,Average 30 years,6,Madhya Pradesh,Indore,8,1,4,4,13,147,316,267,221,48,22,3,1054
+29,Average 30 years,6,Madhya Pradesh,Ratlam,10,2,3,2,12,98,311,342,237,58,3,0,1078
+30,Average 30 years,6,Madhya Pradesh,Ujjain,11,2,4,3,11,123,335,318,220,46,13,3,1088
+31,Average 30 years,6,Madhya Pradesh,Mandsaur,11,3,4,3,6,108,319,301,164,31,9,2,962
+32,Average 30 years,6,Madhya Pradesh,Dewas,10,2,7,4,11,142,343,273,218,44,21,4,1079
+33,Average 30 years,6,Madhya Pradesh,Dhar,7,1,1,2,11,140,289,225,186,32,17,4,915
+34,Average 30 years,6,Madhya Pradesh,Jhabua,3,1,2,1,9,112,253,201,150,25,8,3,768
+35,Average 30 years,6,Madhya Pradesh,Khargone,6,2,3,2,12,139,273,208,178,40,22,4,888
+36,Average 30 years,6,Madhya Pradesh,Khandwa,8,4,6,2,10,143,310,216,186,45,27,4,961
+37,Average 30 years,6,Madhya Pradesh,Sehore,13,4,9,4,10,139,394,306,229,39,17,6,1169
+38,Average 30 years,6,Madhya Pradesh,Raisen,24,14,10,5,11,161,544,457,293,49,20,6,1595
+39,Average 30 years,6,Madhya Pradesh,Vidisha,23,10,10,4,11,141,449,385,237,36,18,8,1331
+40,Average 30 years,6,Madhya Pradesh,Betul,8,2,18,10,9,138,320,296,240,68,19,1,1129
+41,Average 30 years,6,Madhya Pradesh,Rajgarh,16,5,8,4,11,129,389,336,209,32,14,7,1157
+42,Average 30 years,6,Madhya Pradesh,Shajapur,13,3,6,4,11,133,365,309,216,38,16,5,1117
+43,Average 30 years,6,Madhya Pradesh,Hoshangabad,16,10,8,4,8,153,468,398,261,37,16,6,1385
+44,Average 30 years,1,Andhra Pradesh,Srikakulam,8,18,15,26,53,119,162,189,229,192,83,10,1104
+45,Average 30 years,1,Andhra Pradesh,Visakhapatnam,7,15,9,13,54,88,122,132,167,259,91,18,975
+46,Average 30 years,1,Andhra Pradesh,East Godavari,8,9,12,20,42,122,190,145,151,238,136,15,1088
+47,Average 30 years,1,Andhra Pradesh,West Godavari,3,13,10,18,48,148,214,200,169,159,73,7,1062
+48,Average 30 years,1,Andhra Pradesh,Krishna,5,15,13,18,39,94,177,152,162,234,138,18,1065
+49,Average 30 years,1,Andhra Pradesh,Guntur,4,9,8,15,32,92,116,117,143,115,44,9,704
+50,Average 30 years,1,Andhra Pradesh,Nellore,32,7,7,10,37,37,71,76,110,266,317,88,1058
+51,Average 30 years,1,Andhra Pradesh,Kurnool,4,8,5,14,30,76,106,103,146,78,29,6,605
+52,Average 30 years,1,Andhra Pradesh,Anantapur,3,5,4,16,57,41,38,71,122,92,41,7,497
+53,Average 30 years,1,Andhra Pradesh,Kadapa,11,3,6,13,39,72,107,121,155,108,95,18,748
+54,Average 30 years,1,Andhra Pradesh,Chittoor,5,2,4,36,59,54,86,75,113,166,61,36,697
+55,Average 30 years,20,Telangana,Hyderabad,2,11,13,24,30,107,105,147,163,71,25,6,704
+56,Average 30 years,20,Telangana,Nizamabad,5,17,14,21,20,149,317,261,23,65,14,3,909
+57,Average 30 years,20,Telangana,Medak,9,11,12,24,23,124,178,165,199,62,22,6,835
+58,Average 30 years,20,Telangana,Mahabubnagar,6,10,7,17,29,112,176,146,185,74,26,4,792
+59,Average 30 years,20,Telangana,Nalgonda,6,9,6,21,32,102,138,129,171,105,36,8,763
+60,Average 30 years,20,Telangana,Warangal,9,14,11,23,29,146,228,175,190,68,27,5,925
+61,Average 30 years,20,Telangana,Khammam,6,14,13,43,41,168,299,258,187,84,28,7,1148
+62,Average 30 years,20,Telangana,Karimnagar,6,22,13,21,22,150,220,170,173,55,21,7,880
+63,Average 30 years,20,Telangana,Adilabad,6,21,14,19,18,157,289,203,183,65,13,4,992
+65,Average 30 years,5,Karnataka,Kolar,10,9,10,31,83,58,72,93,137,133,82,16,734
+66,Average 30 years,5,Karnataka,Tumkur,6,3,5,21,77,46,46,75,113,117,47,7,563
+67,Average 30 years,5,Karnataka,Mysore,4,10,15,70,139,89,182,106,84,131,75,15,920
+68,Average 30 years,5,Karnataka,Mandya,4,5,7,44,112,39,31,61,122,158,79,12,674
+69,Average 30 years,5,Karnataka,Hassan,2,7,15,60,112,87,145,107,100,181,63,13,892
+70,Average 30 years,5,Karnataka,Shimoge,0,0,11,53,118,151,276,126,82,174,47,7,1045
+71,Average 30 years,5,Karnataka,Chickmagalur,4,4,12,66,111,417,821,425,205,185,65,19,2334
+72,Average 30 years,5,Karnataka,Chitradurga,1,5,3,32,85,62,73,97,96,135,49,16,654
+73,Average 30 years,5,Karnataka,Bellary,2,2,4,24,61,43,48,80,110,109,31,5,519
+74,Average 30 years,5,Karnataka,Dharwad,2,2,9,48,75,95,174,121,102,125,48,12,813
+75,Average 30 years,5,Karnataka,Belgaum,1,2,12,58,93,223,519,303,121,175,37,7,1551
+76,Average 30 years,5,Karnataka,Bijapur,3,1,9,26,39,68,79,85,135,97,26,5,573
+77,Average 30 years,5,Karnataka,Bidar,2,7,17,27,29,147,243,186,212,74,30,3,977
+78,Average 30 years,5,Karnataka,Raichur,1,6,4,13,28,103,139,135,168,94,25,3,719
+79,Average 30 years,5,Karnataka,Gulbarga,1,5,11,17,40,110,151,143,178,71,24,2,753
+80,Average 30 years,5,Karnataka,Dakshina Kannada,5,2,9,40,233,982,1059,577,267,206,71,18,3469
+81,Average 30 years,5,Karnataka,Uttara Kannada,2,2,7,33,78,107,163,100,103,123,43,11,773
+82,Average 30 years,5,Karnataka,Kodagu,5,6,21,81,160,614,1106,724,332,204,78,15,3346
+83,Average 30 years,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,30,20,12,7,10,114,359,340,181,43,13,7,1134
+84,Average 30 years,11,Tamil Nadu,South Arcot Cuddalore,66,19,24,68,24,6,9,12,16,175,308,196,923
+85,Average 30 years,11,Tamil Nadu,North Arcot Vellore,19,6,8,25,80,77,90,106,152,169,160,77,969
+86,Average 30 years,11,Tamil Nadu,Salem,9,12,15,55,93,82,105,143,142,186,89,34,965
+87,Average 30 years,11,Tamil Nadu,Coimbatore,11,7,9,61,69,34,42,34,37,149,125,34,612
+88,Average 30 years,11,Tamil Nadu,Tiruchirapalli Trichy,18,8,8,70,80,34,41,105,108,170,156,71,869
+89,Average 30 years,11,Tamil Nadu,Thanjavur,57,25,22,55,56,29,48,62,62,224,458,239,1337
+90,Average 30 years,11,Tamil Nadu,Madurai,26,16,21,81,59,31,48,117,123,179,161,43,905
+91,Average 30 years,11,Tamil Nadu,Ramananthapuram,52,20,25,55,30,9,23,39,42,197,251,131,874
+92,Average 30 years,11,Tamil Nadu,Thirunelveli,39,26,31,81,42,6,7,23,20,140,174,97,686
+93,Average 30 years,11,Tamil Nadu,The Nilgiris,26,12,30,109,173,139,177,128,110,213,127,59,1303
+94,Average 30 years,11,Tamil Nadu,Kanyakumari,27,22,38,104,171,208,134,109,81,224,198,84,1400
+96,Average 30 years,7,Maharashtra,Thane,1,0,0,0,9,597,936,544,427,94,9,0,2617
+97,Average 30 years,7,Maharashtra,Raigad,2,1,2,12,30,509,967,635,346,110,36,4,2655
+98,Average 30 years,7,Maharashtra,Ratnagiri,0,0,0,3,32,916,969,661,239,169,34,2,3025
+99,Average 30 years,7,Maharashtra,Nasik,4,3,1,4,15,110,109,95,154,56,36,4,591
+100,Average 30 years,7,Maharashtra,Dhule,4,2,2,3,13,126,200,153,160,46,25,4,738
+101,Average 30 years,7,Maharashtra,Jalgaon,5,2,5,2,13,143,242,194,159,48,22,6,841
+102,Average 30 years,7,Maharashtra,Ahmednagar,3,0,5,11,26,131,102,98,175,84,33,8,676
+103,Average 30 years,7,Maharashtra,Pune,2,0,3,18,35,103,187,106,127,92,37,5,715
+104,Average 30 years,7,Maharashtra,Satara,3,1,4,24,45,133,400,199,130,124,49,7,1119
+105,Average 30 years,7,Maharashtra,Sangli,3,1,7,25,49,67,115,80,96,89,31,8,571
+106,Average 30 years,7,Maharashtra,Solapur,4,2,7,16,26,109,128,140,184,92,28,7,743
+107,Average 30 years,7,Maharashtra,Kolhapur,0,1,9,33,77,163,375,213,103,122,40,1,1137
+108,Average 30 years,7,Maharashtra,Aurangabad,3,3,4,7,17,141,189,140,179,62,32,9,786
+109,Average 30 years,7,Maharashtra,Parbhani,4,6,6,13,22,144,226,175,207,64,31,7,905
+110,Average 30 years,7,Maharashtra,Beed,7,6,6,8,14,112,121,108,211,51,33,8,685
+111,Average 30 years,7,Maharashtra,Nanded,8,13,7,9,14,152,223,205,210,47,21,6,915
+112,Average 30 years,7,Maharashtra,Osmanabad,5,4,7,17,21,148,161,149,211,54,24,8,809
+113,Average 30 years,7,Maharashtra,Buldhana,9,0,8,10,17,172,223,205,195,48,12,2,901
+114,Average 30 years,7,Maharashtra,Akola,9,8,8,7,11,146,261,170,178,46,28,6,878
+115,Average 30 years,7,Maharashtra,Amarawati,15,13,12,13,12,149,286,210,186,50,24,6,976
+116,Average 30 years,7,Maharashtra,Yeotmal,12,1,20,18,14,196,302,284,224,58,2,2,1133
+117,Average 30 years,7,Maharashtra,Wardha,12,11,18,16,15,185,326,276,209,59,15,5,1144
+118,Average 30 years,7,Maharashtra,Nagpur,11,23,17,16,21,222,376,286,185,55,20,10,1242
+119,Average 30 years,7,Maharashtra,Bhandara,5,21,22,17,11,181,404,363,235,73,14,3,1349
+120,Average 30 years,7,Maharashtra,Chandrapur,9,21,18,25,20,200,494,387,219,64,15,2,1474
+121,Average 30 years,3,Gujarat,Ahmedabad,4,0,1,2,5,100,316,213,163,13,5,1,823
+122,Average 30 years,3,Gujarat,Amreli,2,0,1,11,8,99,200,141,104,28,8,5,607
+123,Average 30 years,3,Gujarat,Banaskantha,2,4,1,1,9,43,264,229,89,7,2,2,652
+124,Average 30 years,3,Gujarat,Bharuch,1,0,2,2,17,154,333,228,208,56,1,0,1002
+125,Average 30 years,3,Gujarat,Vadodara,2,2,1,3,4,115,366,264,186,35,9,0,987
+126,Average 30 years,3,Gujarat,Bhavnagar,3,1,3,13,6,14,243,152,122,38,7,0,602
+127,Average 30 years,3,Gujarat,Valsad,1,1,1,2,12,340,555,337,289,73,14,1,1625
+128,Average 30 years,3,Gujarat,Dangs,2,1,1,2,14,241,385,251,230,66,18,2,1212
+129,Average 30 years,3,Gujarat,Jamnagar,1,1,0,0,8,63,216,126,62,10,3,1,491
+130,Average 30 years,3,Gujarat,Junagadh,1,1,0,5,5,135,305,146,67,29,7,1,702
+131,Average 30 years,3,Gujarat,Kheda,2,1,1,2,5,116,323,254,176,36,10,1,929
+132,Average 30 years,3,Gujarat,Kutch,3,5,1,1,8,22,164,96,38,7,2,2,349
+133,Average 30 years,3,Gujarat,Mehsana,1,2,1,1,7,35,237,144,68,7,2,2,507
+134,Average 30 years,3,Gujarat,Panchmahal,3,1,2,2,7,105,293,227,160,23,8,2,833
+135,Average 30 years,3,Gujarat,Rajkot,1,0,1,3,7,99,293,143,93,25,5,4,674
+136,Average 30 years,3,Gujarat,Sabarkantha,4,2,2,2,7,95,326,262,158,17,7,2,885
+137,Average 30 years,3,Gujarat,Surat,1,1,1,5,6,210,448,256,218,43,16,2,1207
+138,Average 30 years,3,Gujarat,Surendranagar,2,1,1,4,8,70,232,143,104,21,11,3,601
+139,Average 30 years,10,Rajasthan,Ajmer,12,6,6,3,9,67,187,175,71,17,4,2,559
+140,Average 30 years,10,Rajasthan,Alwar,12,7,7,4,10,56,238,248,112,22,4,5,725
+141,Average 30 years,10,Rajasthan,Banswara,4,2,3,1,6,96,313,313,172,18,7,3,938
+142,Average 30 years,10,Rajasthan,Barmer,5,4,3,3,9,22,87,139,33,2,2,2,311
+143,Average 30 years,10,Rajasthan,Bharatpur,15,7,6,5,8,55,230,235,130,20,5,6,722
+144,Average 30 years,10,Rajasthan,Bhilwara,5,3,5,3,11,64,236,226,85,11,4,5,658
+145,Average 30 years,10,Rajasthan,Bikaner,6,7,6,5,8,27,87,105,45,6,3,2,307
+146,Average 30 years,10,Rajasthan,Bundi,9,5,6,4,8,69,273,258,110,17,5,4,768
+147,Average 30 years,10,Rajasthan,Chittorgarh,10,3,4,4,7,93,312,281,140,20,7,3,885
+148,Average 30 years,10,Rajasthan,Churu,10,6,8,4,11,35,105,101,46,13,4,3,346
+149,Average 30 years,10,Rajasthan,Dungarpur,3,1,3,2,8,93,263,194,127,15,5,1,715
+150,Average 30 years,10,Rajasthan,Ganganagar,15,9,14,6,12,36,69,77,50,3,2,7,300
+151,Average 30 years,10,Rajasthan,Jaipur,14,8,9,4,10,54,193,239,90,19,3,4,647
+152,Average 30 years,10,Rajasthan,Jaisalmer,2,1,3,2,5,7,90,86,14,1,5,2,218
+153,Average 30 years,10,Rajasthan,Jalore,5,5,2,2,9,50,325,357,123,7,4,2,892
+154,Average 30 years,10,Rajasthan,Jhalawar,14,3,4,4,6,111,357,327,164,18,10,6,1024
+155,Average 30 years,10,Rajasthan,Jhunjhunu,11,7,9,3,12,40,137,119,60,16,5,4,423
+156,Average 30 years,10,Rajasthan,Jodhpur,7,5,2,2,6,31,122,146,47,7,3,2,380
+157,Average 30 years,10,Rajasthan,Kota,9,4,5,5,7,79,309,268,132,15,6,3,842
+158,Average 30 years,10,Rajasthan,Nagaur,9,5,5,3,9,44,128,136,50,13,3,2,409
+159,Average 30 years,10,Rajasthan,Pali,3,3,2,2,9,42,113,156,62,6,2,1,401
+160,Average 30 years,10,Rajasthan,Swami Madhopur,12,7,8,4,10,59,245,256,119,23,4,5,753
+161,Average 30 years,10,Rajasthan,Sikar,9,3,5,3,17,44,155,126,43,27,6,3,441
+162,Average 30 years,10,Rajasthan,Sirohi,5,5,3,2,9,74,455,478,182,11,6,2,1233
+163,Average 30 years,10,Rajasthan,Tonk,10,6,7,4,9,61,242,243,97,17,4,4,703
+164,Average 30 years,10,Rajasthan,Udaipur,9,4,4,3,5,87,197,207,120,16,6,3,661
+165,Average 30 years,9,Punjab,Gurdaspur,92,42,55,19,17,58,444,436,171,115,10,27,1486
+166,Average 30 years,9,Punjab,Amritsar,38,11,26,10,11,32,169,168,106,54,10,15,650
+167,Average 30 years,9,Punjab,Kapurthala,35,23,25,8,10,41,194,181,126,42,6,17,708
+168,Average 30 years,9,Punjab,Jalandhar,51,33,35,13,15,51,306,288,160,58,6,23,1041
+169,Average 30 years,9,Punjab,Hoshiarpur,65,43,47,20,21,68,397,371,189,58,7,27,1315
+170,Average 30 years,9,Punjab,Roopnagar,42,40,25,10,13,65,246,248,150,31,7,14,890
+171,Average 30 years,9,Punjab,Ludhiana,35,34,29,11,10,54,188,175,119,34,3,14,706
+172,Average 30 years,9,Punjab,Ferozpur,35,12,22,4,6,34,153,125,97,26,9,14,537
+173,Average 30 years,9,Punjab,Faridkot,23,13,16,4,9,35,124,117,85,20,6,9,460
+174,Average 30 years,9,Punjab,Bhatinda,48,30,33,13,13,45,266,257,143,53,7,22,928
+175,Average 30 years,9,Punjab,Sangrur,38,33,28,11,13,54,217,202,130,33,4,17,779
+176,Average 30 years,9,Punjab,Patiala,45,19,18,7,12,56,228,286,134,44,10,11,870
+177,Average 30 years,4,Haryana,Hissar,19,15,17,6,11,34,122,114,81,15,8,5,447
+178,Average 30 years,4,Haryana,Sirsa,19,11,14,4,9,34,111,106,73,16,6,6,410
+179,Average 30 years,4,Haryana,Bhiwani,17,13,14,5,11,36,124,112,79,13,6,5,436
+180,Average 30 years,4,Haryana,Gurgaon,13,11,10,4,11,43,143,127,97,8,2,5,474
+181,Average 30 years,4,Haryana,Jind,27,18,15,8,13,47,164,166,111,23,6,8,606
+182,Average 30 years,4,Haryana,Mahendragarh,14,11,10,4,10,40,139,124,83,10,4,5,454
+183,Average 30 years,4,Haryana,Ambala,42,52,28,12,15,72,272,250,168,27,6,15,959
+184,Average 30 years,4,Haryana,Karnal,40,22,23,9,8,60,152,230,131,71,7,8,761
+185,Average 30 years,4,Haryana,Kurukshetra,33,21,19,7,10,47,181,198,115,29,7,10,677
+186,Average 30 years,4,Haryana,Rohtak,19,17,12,8,14,49,143,119,108,12,2,8,511
+187,Average 30 years,4,Haryana,Sonepat,20,16,12,11,26,57,179,164,128,42,6,8,668
+188,Average 30 years,4,Haryana,Faridabad,10,11,9,11,25,57,189,179,131,39,5,6,673
+189,Average 30 years,12,Uttar Pradesh,Saharanpur,43,47,28,11,17,91,337,329,206,39,3,13,1164
+190,Average 30 years,12,Uttar Pradesh,Muzaffarnagar,31,32,16,7,14,84,244,220,154,22,3,12,839
+191,Average 30 years,12,Uttar Pradesh,Meerut,30,30,15,8,9,71,247,229,152,37,2,8,838
+192,Average 30 years,12,Uttar Pradesh,Buland Shahar,19,19,12,10,15,69,211,207,140,33,3,6,745
+193,Average 30 years,12,Uttar Pradesh,Ghaziabad,16,17,11,12,28,66,207,191,140,49,6,7,750
+194,Average 30 years,12,Uttar Pradesh,Aligarh,18,15,14,11,12,68,227,216,153,36,2,2,774
+195,Average 30 years,12,Uttar Pradesh,Mathura,13,12,10,8,11,53,203,215,139,26,2,5,696
+196,Average 30 years,12,Uttar Pradesh,Agra,16,9,11,5,10,60,210,263,152,24,2,4,766
+197,Average 30 years,12,Uttar Pradesh,Mainpuri,17,9,12,6,11,64,196,247,152,40,2,6,762
+198,Average 30 years,12,Uttar Pradesh,Etah,16,15,10,6,11,65,214,230,140,25,2,6,741
+199,Average 30 years,12,Uttar Pradesh,Bareilly,25,22,14,8,15,102,346,297,172,62,3,5,1071
+200,Average 30 years,12,Uttar Pradesh,Budaun,21,22,12,6,15,89,268,263,152,34,2,6,891
+201,Average 30 years,12,Uttar Pradesh,Moradabad,29,32,18,11,17,96,279,265,158,37,2,10,953
+202,Average 30 years,12,Uttar Pradesh,Shahjahanpur,35,17,18,6,17,117,337,310,174,56,2,4,1093
+203,Average 30 years,12,Uttar Pradesh,Pilibhit,39,28,24,13,26,124,345,314,178,72,3,9,1173
+204,Average 30 years,12,Uttar Pradesh,Rampur,34,35,22,14,23,109,321,295,172,54,3,11,1093
+205,Average 30 years,12,Uttar Pradesh,Bijnor,30,33,18,11,17,96,281,266,159,37,2,10,959
+206,Average 30 years,12,Uttar Pradesh,Farrukhabad,23,13,12,4,10,80,252,276,163,28,3,6,871
+207,Average 30 years,12,Uttar Pradesh,Etawah,14,13,8,8,7,53,25,252,143,19,5,6,553
+209,Average 30 years,12,Uttar Pradesh,Fatehpur,20,17,10,6,5,67,289,280,144,39,2,6,885
+210,Average 30 years,12,Uttar Pradesh,Allahabad,20,22,14,5,8,102,275,333,195,40,7,6,1027
+211,Average 30 years,12,Uttar Pradesh,Jhansi,17,14,11,3,8,105,298,309,190,32,5,7,999
+212,Average 30 years,12,Uttar Pradesh,Lalitpur,16,9,8,5,8,66,231,263,157,32,3,6,804
+213,Average 30 years,12,Uttar Pradesh,Jalaun,21,5,8,2,7,106,273,372,159,89,1,2,1045
+214,Average 30 years,12,Uttar Pradesh,Hamirpur,23,14,9,3,6,84,300,343,150,56,4,4,998
+215,Average 30 years,12,Uttar Pradesh,Banda,23,13,10,2,7,72,280,380,142,70,4,2,1005
+216,Average 30 years,12,Uttar Pradesh,Varanasi,25,22,12,4,12,92,306,342,226,60,10,3,1114
+217,Average 30 years,12,Uttar Pradesh,Mirzpur,24,19,14,4,9,106,329,323,225,45,11,4,1112
+218,Average 30 years,12,Uttar Pradesh,Jaunpur,22,15,12,3,11,107,328,285,238,43,11,4,1079
+219,Average 30 years,12,Uttar Pradesh,Ghazipur,15,18,8,5,12,123,277,290,200,49,7,5,1008
+220,Average 30 years,12,Uttar Pradesh,Ballia,18,16,11,9,21,143,294,300,217,48,7,3,1085
+221,Average 30 years,12,Uttar Pradesh,Gorakhpur,19,14,11,11,41,186,342,315,253,74,5,3,1274
+222,Average 30 years,12,Uttar Pradesh,Deoria,19,15,15,20,50,188,346,296,221,60,5,3,1237
+223,Average 30 years,12,Uttar Pradesh,Basti,21,16,10,9,30,159,348,320,245,66,5,4,1234
+224,Average 30 years,12,Uttar Pradesh,Azamgarh,22,9,16,3,8,103,274,290,261,50,9,3,1048
+225,Average 30 years,12,Uttar Pradesh,Lucknow,24,17,9,6,12,94,299,302,182,40,1,6,992
+226,Average 30 years,12,Uttar Pradesh,Unnao,27,14,11,4,9,77,262,302,187,42,5,6,946
+227,Average 30 years,12,Uttar Pradesh,Rae - Bareily,21,16,11,5,11,80,298,311,183,41,4,5,987
+228,Average 30 years,12,Uttar Pradesh,Sitapur,37,13,15,3,18,127,330,305,176,71,1,3,1099
+229,Average 30 years,12,Uttar Pradesh,Hardoi,39,10,18,1,9,124,335,324,186,12,2,2,1062
+230,Average 30 years,12,Uttar Pradesh,Kheri,44,12,19,2,24,135,329,305,158,101,1,2,1132
+231,Average 30 years,12,Uttar Pradesh,Faizabad,21,17,10,7,21,135,341,316,236,54,6,5,1169
+232,Average 30 years,12,Uttar Pradesh,Gonda,27,16,11,8,27,158,372,353,250,65,2,5,1294
+233,Average 30 years,12,Uttar Pradesh,Bahraich,28,17,12,7,23,142,361,285,210,83,2,7,1177
+234,Average 30 years,12,Uttar Pradesh,Sultanpur,21,17,11,5,15,117,325,317,225,46,6,5,1111
+235,Average 30 years,12,Uttar Pradesh,Pratapgarh,20,18,12,5,10,99,302,312,206,39,7,6,1035
+236,Average 30 years,12,Uttar Pradesh,Barabanki,26,16,11,5,16,113,327,313,200,53,2,5,1089
+237,Average 30 years,16,Uttarakhand,Nainital,58,56,45,34,51,143,332,338,197,79,4,23,1360
+238,Average 30 years,16,Uttarakhand,Almorah,59,61,43,31,54,151,332,312,172,62,4,24,1305
+239,Average 30 years,16,Uttarakhand,Pithorgarh,61,58,45,32,57,162,332,301,171,75,4,23,1321
+240,Average 30 years,16,Uttarakhand,Chamoli,66,71,51,36,63,165,341,303,156,54,6,29,1338
+241,Average 30 years,16,Uttarakhand,Uttar Kashi,73,79,67,39,57,165,516,499,224,49,9,34,1811
+242,Average 30 years,16,Uttarakhand,Tehri Garhwal,66,72,54,32,55,169,479,459,211,48,6,29,1681
+243,Average 30 years,16,Uttarakhand,Garhwal,56,61,40,25,47,150,399,381,194,50,4,22,1430
+244,Average 30 years,16,Uttarakhand,Dehradun,62,59,40,17,42,186,703,765,327,71,5,19,2296
+501,Average 30 years,14,Chhattisgarh,Rajnandgaon,15,25,20,18,15,187,404,385,203,64,12,5,1354
+502,Average 30 years,6,Madhya Pradesh,Bhopal,17,5,10,3,11,137,429,308,232,37,15,7,1211
+503,Average 30 years,1,Andhra Pradesh,Vizianagaram,7,14,15,35,59,141,218,247,200,166,62,10,1174
+504,Average 30 years,1,Andhra Pradesh,Prakasam,4,11,11,5,53,47,118,103,136,209,104,47,848
+506,Average 30 years,11,Tamil Nadu,Dharmapuri,15,7,9,44,111,68,70,99,140,168,109,36,876
+507,Average 30 years,11,Tamil Nadu,Periyar(Erode),29,20,32,100,134,85,107,108,109,204,148,63,1139
+508,Average 30 years,11,Tamil Nadu,Pudukkottai,29,13,13,67,62,20,33,90,94,180,216,100,918
+509,Average 30 years,11,Tamil Nadu,Dindigul Anna,21,10,22,93,116,73,99,118,116,186,134,53,1042
+510,Average 30 years,11,Tamil Nadu,Virudhunagar Kamarajar,51,22,35,97,82,73,65,79,79,197,248,129,1158
+512,Average 30 years,11,Tamil Nadu,Sivagangai Pasumpon,34,16,18,69,47,15,32,88,93,182,208,86,888
+513,Average 30 years,11,Tamil Nadu,Chidambanar Toothukudi,45,24,31,79,50,25,21,30,28,161,210,118,821
+514,Average 30 years,7,Maharashtra,Jalna,14,24,13,17,14,215,499,399,208,51,12,6,1472
+515,Average 30 years,7,Maharashtra,Latur,4,7,10,17,23,146,206,176,212,59,26,5,891
+516,Average 30 years,7,Maharashtra,Gadchiroli,9,22,17,21,18,211,534,414,241,67,18,3,1574
+517,Average 30 years,7,Maharashtra,Sindhudurg,0,0,3,18,70,708,837,455,217,155,27,3,2493
+518,Average 30 years,3,Gujarat,Gandhinagar,4,1,2,3,8,97,281,206,153,21,11,2,789
+519,Average 30 years,10,Rajasthan,Dholpur,15,7,6,5,8,55,230,235,130,20,5,6,722
+520,Average 30 years,20,Telangana,Rangareddy,6,9,11,22,29,120,177,153,201,70,26,4,829
+521,Average 30 years,11,Tamil Nadu,Thiruvannamalai,20,9,11,29,86,57,82,109,136,176,173,86,974
+523,Average 30 years,4,Haryana,Yamunanagar,47,46,32,16,21,90,296,311,176,44,6,15,1100
+524,Average 30 years,4,Haryana,Kaithal,34,20,16,7,11,50,190,206,118,27,7,9,695
+525,Average 30 years,4,Haryana,Panipat,27,20,14,9,17,57,184,180,126,34,6,9,683
+526,Average 30 years,4,Haryana,Rewari,13,11,10,5,11,41,144,130,92,10,3,5,475
+527,Average 30 years,16,Uttarakhand,Haridwar,46,47,30,13,23,111,378,384,210,43,4,15,1304
+528,Average 30 years,12,Uttar Pradesh,Firozabad,15,12,9,7,8,55,214,241,144,24,4,6,738
+529,Average 30 years,12,Uttar Pradesh,Sonbhadra,20,16,11,10,33,163,342,314,244,67,5,4,1228
+530,Average 30 years,12,Uttar Pradesh,Mau,18,19,8,5,9,79,287,291,174,40,9,9,948
+531,Average 30 years,12,Uttar Pradesh,Mahrajgani,22,16,16,21,54,193,359,305,229,70,4,4,1292
+532,Average 30 years,12,Uttar Pradesh,Sidharthnagar,24,17,13,14,42,180,363,318,242,74,4,4,1295
+547,Average 30 years,12,Uttar Pradesh,Kanpur Nagar,23,15,10,5,6,70,242,296,181,43,6,7,903
+548,Average 30 years,12,Uttar Pradesh,Kanpur Dehat,23,16,9,5,6,68,208,286,202,43,8,8,882
+549,Average 30 years,5,Karnataka,Bangalore(Rural),3,10,6,46,117,80,117,147,143,185,54,16,924
+550,Average 30 years,5,Karnataka,Bangalore(Urban),-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+601,Average 30 years,17,Assam,Cachar,17,47,155,30,440,628,476,537,398,195,44,9,2976
+602,Average 30 years,17,Assam,Darrang,17,30,60,193,287,408,412,351,273,116,34,10,2193
+603,Average 30 years,17,Assam,Dibrugarh,26,63,116,365,319,467,514,442,343,144,29,15,2843
+604,Average 30 years,17,Assam,Goalpara,10,20,47,166,399,621,752,403,379,145,14,4,2959
+605,Average 30 years,17,Assam,Kamrup,10,30,56,82,319,451,399,340,329,93,16,6,2130
+606,Average 30 years,17,Assam,Karbi Anglong,16,45,154,70,414,681,490,452,372,195,66,8,2962
+607,Average 30 years,17,Assam,Lakhimpur,26,63,116,310,319,467,514,442,343,144,29,15,2788
+608,Average 30 years,17,Assam,North Cachar Hil,16,45,154,130,414,681,490,452,372,195,66,8,3022
+609,Average 30 years,17,Assam,Nagaon,12,28,81,84,194,294,347,324,231,100,19,9,1722
+610,Average 30 years,17,Assam,Sibsagar,38,47,95,176,271,350,404,373,283,120,27,13,2196
+615,Average 30 years,17,Assam,Barpeta,10,30,56,149,319,451,399,340,329,93,16,6,2197
+616,Average 30 years,17,Assam,Dhubri,10,20,47,232,399,621,752,403,379,145,14,4,3025
+617,Average 30 years,17,Assam,Golaghat,38,47,95,107,271,350,404,373,283,120,27,13,2126
+618,Average 30 years,17,Assam,Jorhat,38,47,95,228,271,350,404,373,283,144,27,13,2272
+619,Average 30 years,17,Assam,Karimganj,17,47,155,51,440,628,476,537,398,195,44,9,2997
+620,Average 30 years,17,Assam,Kokrajhar,10,20,47,295,399,621,752,403,379,145,14,4,3088
+621,Average 30 years,17,Assam,Nalbari,10,30,56,165,319,451,399,340,329,93,16,6,2213
+622,Average 30 years,17,Assam,Sonitpur,17,30,60,248,287,408,412,351,273,116,34,10,2248
+626,Average 30 years,18,Himachal Pradesh,Bilashpur,90,61,57,26,46,111,333,299,156,31,14,34,1258
+627,Average 30 years,18,Himachal Pradesh,Chamba,118,109,137,79,70,97,339,297,147,53,26,55,1527
+628,Average 30 years,18,Himachal Pradesh,Hamirpur,81,61,58,28,33,128,396,413,157,39,14,28,1436
+629,Average 30 years,18,Himachal Pradesh,Kangra,90,76,84,38,43,129,586,506,247,49,14,46,1908
+630,Average 30 years,18,Himachal Pradesh,Kinnaur,100,104,108,76,59,30,47,49,57,34,18,52,734
+631,Average 30 years,18,Himachal Pradesh,Kullu,64,60,91,53,57,84,223,182,101,30,9,31,985
+632,Average 30 years,18,Himachal Pradesh,Lahul & Spiti,146,141,192,115,101,53,162,135,105,61,32,65,1308
+633,Average 30 years,18,Himachal Pradesh,Solan,80,70,72,30,53,139,391,338,170,51,15,36,1445
+634,Average 30 years,18,Himachal Pradesh,Mandi,77,67,81,46,55,156,428,393,163,37,17,31,1551
+635,Average 30 years,18,Himachal Pradesh,Shimla,70,58,76,44,64,118,276,213,112,35,13,26,1105
+636,Average 30 years,18,Himachal Pradesh,Sirmaur,60,47,44,17,20,139,527,537,201,53,10,34,1689
+637,Average 30 years,18,Himachal Pradesh,Una,51,47,43,15,25,58,330,291,156,33,13,24,1086
+651,Average 30 years,19,Kerala,Alappuzha,25,27,56,129,323,637,547,327,271,333,228,61,2964
+652,Average 30 years,19,Kerala,Kannur,4,4,8,64,244,891,1085,570,249,226,99,23,3467
+653,Average 30 years,19,Kerala,Eranakulam,15,17,41,134,318,740,721,451,288,312,172,45,3254
+654,Average 30 years,19,Kerala,Idukki,19,23,47,129,228,638,831,518,305,310,167,50,3265
+655,Average 30 years,19,Kerala,Kottayam,24,24,52,125,310,697,640,400,285,331,188,55,3131
+656,Average 30 years,19,Kerala,Kozhikode,9,7,21,93,297,925,1034,547,257,284,157,36,3667
+657,Average 30 years,19,Kerala,Malappuram,5,7,21,86,221,688,797,399,205,291,157,30,2907
+658,Average 30 years,19,Kerala,Palakkad,8,9,27,87,161,477,633,349,165,249,136,28,2329
+659,Average 30 years,19,Kerala,Kollam,24,31,75,166,242,487,428,273,212,350,216,60,2564
+660,Average 30 years,19,Kerala,Thrissur,7,10,27,86,296,769,759,443,257,301,144,31,3130
+661,Average 30 years,19,Kerala,Thiruvananthapuram,22,19,45,120,225,377,279,157,170,280,182,67,1943
+662,Average 30 years,19,Kerala,Kasaragod,5,3,9,51,226,1004,1081,610,269,209,91,23,3581
+663,Average 30 years,19,Kerala,Pathanamthitta,28,41,99,202,306,585,550,372,272,339,342,62,3198
+664,Average 30 years,19,Kerala,Wayanad,7,9,23,99,183,762,1261,644,252,226,99,23,3588
+701,Average 30 years,8,Orissa,Balasore,17,31,38,48,98,234,318,335,287,230,45,9,1690
+702,Average 30 years,8,Orissa,Bolangir,8,10,23,14,41,212,417,452,316,88,6,1,1588
+703,Average 30 years,8,Orissa,Cuttack,10,29,20,27,72,215,355,365,252,168,41,5,1559
+704,Average 30 years,8,Orissa,Dhenkanal,14,34,19,32,159,219,360,339,233,103,35,5,1552
+705,Average 30 years,8,Orissa,Ganjam,8,22,22,15,51,141,193,200,185,379,80,15,1311
+706,Average 30 years,8,Orissa,Kalahandi,7,10,21,45,67,199,364,414,250,111,20,4,1511
+707,Average 30 years,8,Orissa,Keonjhar,23,36,19,48,95,195,367,300,213,91,30,5,1422
+708,Average 30 years,8,Orissa,Koraput,7,2,18,48,70,212,425,488,245,134,19,3,1671
+709,Average 30 years,8,Orissa,Mayurbhanja,8,17,14,10,58,174,248,211,230,286,87,17,1361
+710,Average 30 years,8,Orissa,Phulbani(Kandhamal),13,25,28,58,102,192,274,277,246,157,45,8,1425
+711,Average 30 years,8,Orissa,Puri,9,20,14,12,63,187,296,256,258,242,75,8,1440
+712,Average 30 years,8,Orissa,Sambalpur,19,25,23,12,25,338,503,477,262,68,10,2,1764
+713,Average 30 years,8,Orissa,Sundargarh,19,33,21,31,76,246,426,379,232,81,22,4,1572
+801,Average 30 years,13,West Bengal,24 - Paraganas South,14,21,28,50,148,287,362,354,294,177,34,5,1775
+802,Average 30 years,13,West Bengal,24 - Paraganas North,13,21,33,63,166,308,362,341,266,151,31,5,1760
+803,Average 30 years,13,West Bengal,Nadia,11,23,31,60,141,252,281,271,205,130,26,3,1434
+804,Average 30 years,13,West Bengal,Murshidabad,13,19,18,37,115,219,295,302,226,127,16,4,1391
+805,Average 30 years,13,West Bengal,Burdwan,11,25,25,46,115,196,314,301,237,107,23,4,1404
+806,Average 30 years,13,West Bengal,Birbhum,14,24,21,38,100,185,323,313,235,115,19,3,1391
+807,Average 30 years,13,West Bengal,Bankura,20,22,13,25,61,192,330,320,259,116,13,2,1373
+810,Average 30 years,13,West Bengal,Hooghly,12,23,30,52,132,348,316,308,243,127,28,4,1622
+811,Average 30 years,13,West Bengal,Howrah,14,23,28,47,125,497,318,321,269,152,32,4,1831
+812,Average 30 years,13,West Bengal,Jalpaiguri,9,14,30,151,340,710,776,663,537,143,14,3,3390
+813,Average 30 years,13,West Bengal,Darjeeling,22,27,52,109,187,522,713,573,419,116,14,5,2759
+814,Average 30 years,13,West Bengal,Malda,13,18,15,28,104,232,303,288,276,118,13,2,1410
+816,Average 30 years,13,West Bengal,Cooch Behar,11,17,31,134,44,767,702,506,502,168,10,4,2896
+817,Average 30 years,13,West Bengal,Purulia,10,14,21,27,42,178,331,312,287,80,4,1,1307
+821,Average 30 years,13,West Bengal,Kolkata,14,24,27,43,121,259,301,306,290,160,35,3,1583
+823,Average 30 years,13,West Bengal,East Midnapore Purba Midnapore,14,30,34,44,109,232,322,336,262,132,36,3,1554
+824,Average 30 years,13,West Bengal,West Midnapore,15,27,31,41,112,256,322,344,282,158,35,4,1627
+902,Average 30 years,2,Bihar,Muzaffarpur,16,15,13,20,57,198,334,300,234,54,6,2,1250
+903,Average 30 years,2,Bihar,Darbhanga,20,15,10,20,57,190,329,291,247,70,7,2,1258
+904,Average 30 years,2,Bihar,Saharsa,18,14,18,32,97,268,381,337,265,85,8,2,1525
+905,Average 30 years,2,Bihar,Purnea,16,16,13,30,100,238,363,329,267,102,8,1,1483
+906,Average 30 years,2,Bihar,Saran,18,16,11,17,39,181,335,294,206,44,5,2,1168
+907,Average 30 years,2,Bihar,Patna,21,20,7,8,28,139,266,307,243,63,6,2,1110
+908,Average 30 years,2,Bihar,Mungair,33,5,9,8,38,108,248,226,196,81,3,1,956
+909,Average 30 years,2,Bihar,Bhagalpur,35,4,6,9,48,208,253,251,246,79,5,2,1146
+910,Average 30 years,15,Jharkhand,Santhal Paragana Dumka,16,20,14,26,80,209,294,285,251,106,12,2,1316
+912,Average 30 years,2,Bihar,Gaya,24,21,10,6,18,109,289,364,194,51,6,3,1095
+913,Average 30 years,15,Jharkhand,Hazaribagh,31,26,20,15,48,165,335,350,233,80,11,5,1319
+914,Average 30 years,15,Jharkhand,Dhanbad,16,22,16,16,41,160,249,347,229,90,9,3,1198
+915,Average 30 years,15,Jharkhand,Palamau,31,27,21,9,13,140,346,358,224,57,7,4,1237
+916,Average 30 years,15,Jharkhand,Ranchi,24,39,28,23,50,202,360,354,256,105,17,4,1462
+918,Average 30 years,2,Bihar,Nalanda,26,15,8,8,31,125,266,294,221,67,5,2,1069
+919,Average 30 years,2,Bihar,Nawada,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+920,Average 30 years,2,Bihar,Aurangabad,24,23,14,7,11,123,294,367,233,45,8,3,1153
+921,Average 30 years,2,Bihar,Bhojpur,19,19,9,8,17,134,283,319,216,46,7,3,1079
+922,Average 30 years,2,Bihar,Rohtas,23,22,14,6,7,120,287,370,242,40,8,3,1142
+923,Average 30 years,2,Bihar,Siwan,18,16,12,16,37,174,327,292,208,47,6,3,1154
+924,Average 30 years,2,Bihar,Gopalganj,18,15,14,19,45,184,338,288,209,49,5,3,1187
+925,Average 30 years,2,Bihar,Champaran(East),20,16,19,29,64,199,359,284,203,54,5,2,1253
+926,Average 30 years,2,Bihar,Champaran(West,17,15,12,22,48,207,373,287,191,37,5,2,1216
+927,Average 30 years,2,Bihar,Vaishali,18,15,10,14,44,173,307,303,235,56,6,2,1183
+928,Average 30 years,2,Bihar,Sitamarhi,15,15,18,28,70,218,362,295,217,47,6,2,1294
+929,Average 30 years,2,Bihar,Madhubani,15,16,18,30,88,245,360,316,247,69,8,2,1414
+930,Average 30 years,2,Bihar,Samastipur,22,13,9,14,48,167,299,287,238,68,6,2,1173
+931,Average 30 years,2,Bihar,Begusarai,27,9,8,11,48,163,276,264,229,75,5,2,1118
+932,Average 30 years,2,Bihar,Katihar,16,16,13,31,101,252,352,323,274,104,9,1,1492
+933,Average 30 years,15,Jharkhand,Giridih,25,18,14,12,39,141,268,313,220,85,7,3,1145
+934,Average 30 years,2,Bihar,Jehanabad,23,20,9,7,21,123,280,334,216,53,6,3,1095
+935,Average 30 years,2,Bihar,Madhepura,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+936,Average 30 years,2,Bihar,Khagaria,28,8,9,13,57,195,279,265,239,79,5,2,1179
+937,Average 30 years,15,Jharkhand,Godda,20,19,12,23,63,194,297,288,250,103,11,2,1282
+938,Average 30 years,15,Jharkhand,Sahebganj,16,20,14,26,80,209,294,286,250,106,12,2,1316
+940,Average 30 years,15,Jharkhand,Devghar Deogarh,24,19,12,17,46,163,297,310,239,103,10,2,1242
+941,Average 30 years,15,Jharkhand,Lohardagga,26,34,25,16,33,177,386,377,238,82,13,4,1411
+942,Average 30 years,15,Jharkhand,Gumla,23,36,24,18,38,195,440,399,231,85,18,4,1510
+943,Average 30 years,15,Jharkhand,Singhbhum East,14,28,24,26,69,218,347,356,215,76,17,2,1392
+944,Average 30 years,15,Jharkhand,Singhbhum West,16,28,24,28,63,176,324,315,218,99,21,2,1314
+945,Average 30 years,2,Bihar,Araria,18,15,22,41,123,320,464,400,299,104,8,2,1817
+946,Average 30 years,2,Bihar,Kishanganj,18,12,27,57,187,460,625,523,371,134,8,1,2422
+952,Average 30 years,15,Jharkhand,Chatra,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+953,Average 30 years,15,Jharkhand,Bokaro,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+954,Average 30 years,15,Jharkhand,Gadva Garhwa,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+955,Average 30 years,15,Jharkhand,Khodrama Koderma,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+957,Average 30 years,15,Jharkhand,Pakund Pakur,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+962,Average 30 years,15,Jharkhand,Jamtara,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+963,Average 30 years,15,Jharkhand,Latehar,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+964,Average 30 years,15,Jharkhand,Sariakela Kharsawan,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+965,Average 30 years,15,Jharkhand,Simdega,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+999,Average 30 years,11,Tamil Nadu,Chennai,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1030,Average 30 years,16,Uttarakhand,Udham Singh Nagar,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1032,Average 30 years,16,Uttarakhand,Bageshwar,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1035,Average 30 years,16,Uttarakhand,Champavat,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1043,Average 30 years,16,Uttarakhand,Rudraprayag,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1047,Average 30 years,17,Assam,Bongaigaon,10,20,47,268,399,621,752,403,379,145,14,4,3061
+1048,Average 30 years,17,Assam,Dhemaji,26,63,116,245,319,467,514,442,343,144,29,15,2723
+1049,Average 30 years,17,Assam,Hailakandi,17,47,155,28,440,628,476,537,398,195,66,9,2996
+1050,Average 30 years,17,Assam,Marigaon,12,28,81,38,194,294,347,324,231,100,19,9,1676
+1051,Average 30 years,17,Assam,Tinsukia,26,63,116,368,319,467,514,442,343,144,29,15,2846
+1055,Average 30 years,14,Chhattisgarh,Dantewara,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1056,Average 30 years,14,Chhattisgarh,Dhamtari,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1059,Average 30 years,14,Chhattisgarh,Janjgir,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1065,Average 30 years,14,Chhattisgarh,Koriya,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1066,Average 30 years,14,Chhattisgarh,Jashpur,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1067,Average 30 years,14,Chhattisgarh,Korba,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1068,Average 30 years,14,Chhattisgarh,Kawardha,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1069,Average 30 years,14,Chhattisgarh,Mahasmund,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1070,Average 30 years,14,Chhattisgarh,Kanker,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1076,Average 30 years,7,Maharashtra,Mumbai sub,2,1,0,3,16,520,710,439,297,88,21,2,2099

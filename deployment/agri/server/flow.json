@@ -1,0 +1,19 @@
+{
+  "slots": [
+    {"name": "pH", "kind": "number", "promptKey": "slots.pH", "min": 0, "max": 14},
+    {"name": "EC", "kind": "number", "promptKey": "slots.EC"},
+    {"name": "OC", "kind": "number", "promptKey": "slots.OC"},
+    {"name": "Avail-P", "kind": "number", "promptKey": "slots.Avail-P"},
+    {"name": "Exch-K", "kind": "number", "promptKey": "slots.Exch-K"},
+    {"name": "Avail-Ca", "kind": "number", "promptKey": "slots.Avail-Ca"},
+    {"name": "Avail-Mg", "kind": "number", "promptKey": "slots.Avail-Mg"},
+    {"name": "Avail-S", "kind": "number", "promptKey": "slots.Avail-S"},
+    {"name": "Avail-Zn", "kind": "number", "promptKey": "slots.Avail-Zn"},
+    {"name": "Avail-B", "kind": "number", "promptKey": "slots.Avail-B"},
+    {"name": "Avail-Fe", "kind": "number", "promptKey": "slots.Avail-Fe"},
+    {"name": "Avail-Cu", "kind": "number", "promptKey": "slots.Avail-Cu"},
+    {"name": "Avail-Mn", "kind": "number", "promptKey": "slots.Avail-Mn"},
+    {"name": "Soil type", "kind": "choice", "promptKey": "slots.Soil type", "choiceKey": "choices.soilType"},
+    {"name": "Season", "kind": "choice", "promptKey": "slots.Season", "choiceKey": "choices.season"}
+  ]
+}

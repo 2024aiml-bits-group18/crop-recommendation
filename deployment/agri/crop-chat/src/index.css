@@ -1,0 +1,177 @@
+:root {
+  --bg: #0b1220;
+  --panel: #121a2b;
+  --muted: #8ea1b4;
+  --text: #e7eef7;
+  --accent: #4cc38a;
+  --accent-2: #5eb1ff;
+  --danger: #ff6b6b;
+  --chip: #1b2540;
+}
+
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; margin: 0; }
+body { background: var(--bg); color: var(--text); font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+
+.app { display: flex; flex-direction: column; height: 100%; }
+
+.app__header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 10px 12px; background: var(--panel); border-bottom: 1px solid #1f2a44;
+}
+.title { font-weight: 700; }
+.lang { display: flex; gap: 8px; align-items: center; }
+.lang select {
+  background: var(--chip); color: var(--text); border: 1px solid #2a375d;
+  padding: 6px 8px; border-radius: 8px;
+}
+
+.chat { display: flex; flex-direction: column; gap: 10px; padding: 10px; height: 100%; }
+.toolbar { display: flex; gap: 10px; align-items: center; }
+.loc-pill { background: var(--chip); padding: 6px 10px; border-radius: 999px; font-size: 12px; color: var(--muted); }
+
+.chat__messages {
+  flex: 1; overflow-y: auto; display: flex; flex-direction: column; gap: 10px;
+  padding: 6px; border-radius: 12px; background: linear-gradient(180deg,#0d1425,#0b1220);
+  border: 1px solid #1f2a44;
+}
+
+.msg { max-width: 85%; padding: 10px 12px; border-radius: 14px; line-height: 1.3; white-space: pre-wrap; }
+.msg--bot  { align-self: flex-start; background: #101a31; border: 1px solid #243361; }
+.msg--user { align-self: flex-end; background: #0f2b1f; border: 1px solid #1f6a4b; }
+
+.choices { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  background: var(--chip); color: var(--text); border: 1px solid #2a375d;
+  padding: 8px 12px; border-radius: 999px; cursor: pointer;
+}
+.chip:active { transform: scale(0.98); }
+
+.composer {
+  display: flex; gap: 8px; align-items: center; padding-top: 6px;
+}
+.composer input {
+  flex: 1; padding: 12px 12px; border-radius: 10px;
+  border: 1px solid #2a375d; background: #0e172b; color: var(--text);
+}
+.btn {
+  background: var(--accent); color: #062012; border: none; padding: 10px 14px;
+  border-radius: 10px; cursor: pointer; font-weight: 600;
+}
+.btn:disabled { opacity: 0.7; cursor: not-allowed; }
+.btn--outline {
+  background: transparent; color: var(--text); border: 1px solid #2a375d;
+}
+@media (max-width: 480px) {
+  .msg { max-width: 95%; }
+  .app__header { padding: 8px; }
+}
+/* ===== Touch-friendly, full-width slider ===== */
+input[type="range"].slider--wide {
+  /* reset native look so custom styles apply */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  width: 100%;
+  height: 64px;                 /* big touch target */
+  background: transparent;
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
+  display: block;
+}
+
+/* Track (WebKit: Chrome/Edge/Safari) */
+input[type="range"].slider--wide::-webkit-slider-runnable-track {
+  height: 20px;                 /* thicker rail */
+  border-radius: 999px;
+  background: #2f3b52;
+}
+
+/* Track (Firefox) */
+input[type="range"].slider--wide::-moz-range-track {
+  height: 20px;
+  border-radius: 999px;
+  background: #2f3b52;
+}
+
+/* Track (old Edge/IE fallback) */
+input[type="range"].slider--wide::-ms-track {
+  height: 20px;
+  border-color: transparent;
+  color: transparent;
+  background: #2f3b52;
+  border-radius: 999px;
+}
+
+/* Thumb (WebKit) */
+input[type="range"].slider--wide::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 50px;                  /* big thumb */
+  height: 50px;
+  border-radius: 50%;
+  background: #007bff;
+  border: 3px solid #0b203a;
+  box-shadow: 0 4px 10px rgba(0,0,0,.4);
+
+  /* center thumb over 20px track: (60 - 20) / 2 = 20 */
+  margin-top: -20px;
+}
+
+/* Thumb (Firefox) */
+input[type="range"].slider--wide::-moz-range-thumb {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #007bff;
+  border: 3px solid #0b203a;
+  box-shadow: 0 4px 10px rgba(0,0,0,.4);
+}
+
+/* Thumb (old Edge/IE fallback) */
+input[type="range"].slider--wide::-ms-thumb {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #007bff;
+  border: 3px solid #0b203a;
+  box-shadow: 0 4px 10px rgba(0,0,0,.4);
+}
+
+/* Remove focus ring glow; keep keyboard focus if you want with outline styles */
+input[type="range"].slider--wide:focus { outline: none; }
+
+/* --- Slider layout helpers --- */
+.sliderContainer {
+  width: 100%;
+  margin-top: 8px;
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.sliderLabels {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 15px;
+  margin-top: 6px;
+  color: var(--muted);
+  text-align: center;
+}
+
+/* Center label styling */
+.sliderValueCenter {
+  flex: 0 0 auto;
+  font-weight: 600;
+  color: var(--text);
+}
+
+/* Optional: slightly smaller for min/max */
+.sliderMin, .sliderMax {
+  font-size: 13px;
+  opacity: 0.8;
+}
+

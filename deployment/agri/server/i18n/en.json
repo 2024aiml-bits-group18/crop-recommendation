@@ -1,0 +1,39 @@
+{
+  "appTitle": "Crop Advisor",
+  "intro1": "Hello, I am the Crop Advisor.",
+  "intro2": "I will recommend crops based on your soil sample.",
+  "enterYourDistrict": "Please enter your district name:",
+  "okLetsContinue": "Okay, let’s continue.",
+  "letsBeginParams": "We’ll now capture your soil parameters.",
+  "invalid": "Please enter a valid value for",
+  "doneGather": "Thanks. Calculating recommendations…",
+  "serverError": "The server returned an error. Please try again.",
+  "networkError": "Network error. Please check your connection and try again.",
+  "resultTitle": "Recommended crops (Top results)",
+  "typeHere": "Type here…",
+  "send": "Send",
+  "restart": "Restart",
+
+  "slots": {
+    "pH": "Enter pH (0–14)",
+    "EC": "Enter EC (Electrical Conductivity)",
+    "OC": "Enter OC (Organic Carbon)",
+    "Avail-P": "Available Phosphorus (mg/kg)",
+    "Exch-K": "Exchangeable Potassium (mg/kg)",
+    "Avail-Ca": "Available Calcium (mg/kg)",
+    "Avail-Mg": "Available Magnesium (mg/kg)",
+    "Avail-S": "Available Sulphur (mg/kg)",
+    "Avail-Zn": "Available Zinc (mg/kg)",
+    "Avail-B": "Available Boron (mg/kg)",
+    "Avail-Fe": "Available Iron (mg/kg)",
+    "Avail-Cu": "Available Copper (mg/kg)",
+    "Avail-Mn": "Available Manganese (mg/kg)",
+    "Soil type": "Select soil type",
+    "Season": "Select season"
+  },
+
+  "choices": {
+    "soilType": ["Red", "Black", "Sandy", "Alluvial", "Laterite", "Clay"],
+    "season": ["Kharif", "Rabi", "Zaid"]
+  }
+}

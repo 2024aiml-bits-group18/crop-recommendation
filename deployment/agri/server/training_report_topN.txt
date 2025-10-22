@@ -1,0 +1,11 @@
+=== Top-3 Accuracy by Model ===
+RandomForest: 0.9684
+GradientBoosting: 0.9511
+KNN: 0.9521
+CatBoost: 0.9572
+
+--- CatBoost Details ---
+Classes: ['Black Gram', 'Chilli', 'Citrus', 'Cotton', 'Cowpea', 'Groundnut', 'Maize', 'Other', 'Pulse', 'Rice', 'Sorghum', 'Tomato']
+Features: ['pH', 'EC', 'OC', 'Avail-P', 'Exch-K', 'Avail-Ca', 'Avail-Mg', 'Avail-S', 'Avail-Zn', 'Avail-B', 'Avail-Fe', 'Avail-Cu', 'Avail-Mn', 'Kharif_rain', 'Rabi_rain', 'Zaid_rain', 'pH_x_EC', 'OC_x_AvailP', 'OC_x_ExchK', 'pH_x_AvailCa', 'EC_x_AvailFe', 'District', 'Soil_Type_Standard']
+Categorical features: ['District', 'Soil_Type_Standard']
+Params: {'iterations': 1200, 'depth': 8, 'learning_rate': 0.05, 'loss_function': 'MultiClass', 'eval_metric': 'Accuracy', 'l2_leaf_reg': 3, 'bootstrap_type': 'Bernoulli', 'subsample': 0.8, 'random_seed': 42, 'auto_class_weights': 'Balanced', 'verbose': False}

@@ -1,7 +1,0 @@
-=== Top-3 Accuracy (k=3) ===
-CatBoost: 0.9694
-RandomForest: 0.9684
-GradientBoosting: 0.9480
-KNN: 0.9572
-
-=== Soft Voting (extra metrics) ===
